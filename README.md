@@ -1,3 +1,6 @@
+Rocket (Feb 2026 - In progress):
+Worked with a group to design, 3d model and print, simulate and build a model rocket.
+
 Model House (Jan - June 2025):
 Designed and modeled a 1:30 scale (10mm:1foot) residential house in AutoCAD.
 
